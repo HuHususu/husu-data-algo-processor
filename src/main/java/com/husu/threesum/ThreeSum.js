@@ -33,6 +33,5 @@ function threeSum(nums) {
     return results;
 }
 
-// 示例
 const nums = [-1, 0, 1, 2, -1, -4];
 console.log(threeSum(nums));  // 输出: [[-1, -1, 2], [-1, 0, 1]]
